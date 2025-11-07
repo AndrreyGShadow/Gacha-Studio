@@ -1,0 +1,5 @@
+{
+  "name": "Gacha Studio AI",
+  "description": "A real-time Gacha-style character creator where you can customize characters with preset assets, upload your own images, or generate unique assets using AI.",
+  "requestFramePermissions": []
+}
